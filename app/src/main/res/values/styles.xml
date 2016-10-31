@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/bg_register</item>
+        <item name="colorPrimaryDark">@color/bg_login</item>
+        <item name="colorAccent">@color/bg_main</item>
+    </style>
+
+    <style name="MyEditTextTheme">
+        <!-- Used for the bottom line when not selected / focused -->
+        <item name="colorAccent">@color/btn_login</item>
+        <!-- colorControlActivated & colorControlHighlight use the colorAccent color by default -->
+    </style>
+
+</resources>
